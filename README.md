@@ -12,6 +12,13 @@ Have your group leader fork this repository. Then, submit your work to your
 group 'leader' (at least temporarily leader anyway), who should make the
 changes on their local repository.
 
+**To complete the assignment, you only need to edit two files**
+
+* docs/index.md
+* docs/bibliography.md
+
+That's it! Both files have templates you can use, just replace/delete!
+
 The group leader should then make sure to commit these changes to their local
 repository and then sync the changes to their repository on GitHub.com. You
 may make as many commits and syncs as you want. Finally, to submit, your group
