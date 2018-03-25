@@ -1,5 +1,5 @@
 # PUT YOUR PROPOSAL TITLE HERE
-
+"""Rebellions and Revolutions"""
 ---
 
 ## Assignment for HIS4936, [Hacking History](http://hacking-history.readthedocs.io)
@@ -71,62 +71,52 @@ have run into for this class...
 ---
 
 ## The Proposal
+Proposal and Bibliography:
+Revolutions and Rebellions
+Stephen DeCasien, Lauren Leigh, and Mikey Hall
 
-### Introduction
+Project Proposal:
 
-The introduction should let the reader know why they should care about the
-topic in general, and to the extent you are able at this time, what you are
-going to say (or ask about) that topic. Use the introduction to let the
-reader know basic facts, or to inform them (briefly)
-
-Even where you are not sure of exactly where you are going. Try to give the
-reader (namely, me) an idea about the the context of the problem or question
-you are going to tackle. Above all, you should let the reader know
-**why they should care**.
-
+Our teams' research project will consist of comparing and contrasting three distinct revolutions. These revolutions are the Cuban Revolution (Stephen DeCasien), the Russian Revolution (Lauren Leigh) and the French Revolution (Mikey Hall). Each member of the team will collect a myriad of data on their chosen revolution. This data will consist of information pertaining to the timespan of the revolution with relevant events included (places of battles, revolts etc.), the economic data pre- and post-revolution, the death toll (both military and civilian during the timespan of each revolution), and the impact of political groups/regimes concerning elections and attainments of power (through the examination of elections and speeches).
 ---
-
-### Workflow
-
-When are where you think you might use certain information sources, let the
-reader know which sources of information you are going to use, and how you
-intend to get information from that source in a useable format.
-
-Next, to whatever extent possible, let the reader understand how you envision
-the overall workflow. That is, how do you intend to get from a to z. At this
-stage, you probably have a lot of uncertainties, but you should try to think
-this out as much as possible. What tool(s) do you intend to use for scraping?
-For cleaning, visualizing? Will you have to transform the data into different
-formats, if so how? How ensure that group members are not constantly waiting
-on a single member to complete their phase? Can you think of ways that group
-members can get updates in advance of the finished work, so that they can
-start their own work?
-
+The questions that we strive to answer are as follows: What are the factors that lead up to each revolution? Were there economic factors involved in the reason for revolution or some that may have happened in the process which changed the state of that revolution? Can these economic factors be somehow compared between each revolution? What are the political factors of the revolution? Is there a complete change in government regimes or a simple change in governmental systems?  What was their political organization and problems that led to these revolutions? Can we see any commonality through speeches and language used by revolutionary leaders that are similar in each revolution (using translated speeches)? What was the human cost of each revolution? Does the timespan and scope have a factor in the brutality, economic change and political pressures at the end of each revolution?
 ---
+Our data sources differ from amongst each team member. For example, for the Cuban Revolution the information comes from archives from both the United States and Cuban governments. Some information comes from websites that have collected data on some various aspect of the revolution like deaths and economic material. For general guidance on basic historical background and timelines, a multitude of books, articles and Wikipedia will be consulted. By using tools like webscraper, openrefine, voyant, and tableau each group member will create their own dataset/visualizations to be compared against one another. Eventfully, each dataset/visualization will be checked by each member for accuracy and consistency. Finally, resulting in a comparative project involving our three similar, yet distinct revolutions.
+---
+Justification or Definition of Rebellion and Revolution:
 
-### Scholarship
+-a forcible overthrow of a government or social order in favor of a new system.
+-an act of violent or open resistance to an established government or ruler.
+---
+Revolutions:
 
-Here is where you should expand a bit on any relevant scholarship, whether
-digital or historical. If you refer to authors in your bibliography, you need
-only use parenthetical (author, year) notation. If you are referring to a web
-resource, you can always link directly to it.
+Stephen DeCasien: 		Cuban Revolution
+Mikey Hall: 			French Revolution
+Lauren Leigh: 		Russian Revolution
 
-This section should not be a large histiographical essay going on about the
-merits or drawbacks of different individuals. That kind of discussion can go
-in your final project. Instead, this should be a place to let your reader know
-in the space of several paragraphs the basic schools of thought or important
-works of scholarship that relate to your project. More importantly, you can
-suggest what (potentially) a digital project such as the one you are proposing
-could say to such a debate.
 
-Remember that you can and should talk about both digital and historical
-scholarship, when relevant. [Digital Humanities Quarterly](www.digitalhumanities.org/dhq/)
-is a good starting point.
 
-Rather than think of this as a discussion about others, it might be more
-helpful to think of it like this: in academia there are lots of scattered, but
-important conversations going on, you can have more impact when you can connect
-what you are saying to more and more of these conversations. So, you can think
-of it like selling your project by linking it to its possible links to others.
+Team Jobs and Tasks:
+Describe what each group member intends to do.
+Project Manager: Mikey Hall
+•	Coordinates workflow between group members, assigns tasks
+•	Controls group GitHub project and branch merges
+•	Writes the 'introduction', and 'next steps' portions
+•	Ensures everything is working
+Data Scientist: Each individual team member will perfume these tasks on their own data and then it will be checked by the group.
+•	Scrape Data
+•	Scrub/Refine Data
+•	Clarify data categories for team members
+•	Make a 'transparency report', describing their process
+Visualization Expert: Each individual team member will perfume these tasks on their own data and then it will be checked by the group.
+•	Performs exploratory visualizations for group members
+•	Produces final visual products
+•	Writes an 'initial findings' and 'problems encountered' reports
+Digital Scholar: Each individual team member will perfume these tasks on their own data and then it will be checked by the group.
+•	Researches relevant digital works/projects
+•	Researches related historical scholarship
+•	Writes a 'digital methods and historical scholarship' section
+
+
 
 ---
