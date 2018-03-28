@@ -1,18 +1,42 @@
 # Bibliography
 
-Remember to make full use of Markdown format. You can use two asterices to
-make text **bold**. More importantly for Chicago Style format, you should use
-a single astrix to make text *italicized*, which you should use for book
-titles. Remember to use Markdown to create links to any web resources in your
-bibliography.
+“Tableau Training & Tutorials.” Tableau Software, www.tableau.com/learn/training.
 
-Below are a few examples
+	This source can provide information on how to better use Tableau for data visualization purposes. It can give ideas on how to visualize the data, be it by a graph or a map. 
+	
+“Meet America's.” Medal of Honor Recipients | Medal of Honor, themedalofhonor.com/medal-of-honor-recipients.
 
-* Cheyette, Fredric L. *Ermengard of Narbonne and the World of the Troubadours*.  Ithaca, Cornell University Press, 2001.
-* Chaniotis, Angelos. *Die Verträge zwischen kretischen Poleis in der hellenistischen Zeit*. Heidelberger althistorische Beiträge und epigraphische Studien 24. Stuttgart: Franz Steiner Verlag, 1996.
-* Clinton, Kevin. “A Family of Eumolpidai and Kerykes Descended from Pericles.” *Hesperia* 73,  no. 1 (2004): 39-57.
-* Clinton, Kevin. “Eleusis and the Romans.” In *The Romanization of Athens: Proceedings of an International Conference held at Lincoln, Nebraska (April 1996)*,  Oxbow Monographs 94, edited by Michael C. Hoff and Susan I. Rotroff, 161-82. Oxford: Oxbow, 1997.
-* Coward, Fiona. "Small Worlds, Material Culture and Ancient Near Eastern Social Networks." In *Social Brain, Distributed Mind*, edited by Robin Dunbar, Clive Gamble, and John Gowlett. Oxford: Oxford University Press, 2010.
-* Geagan, Daniel. “The Great Catalogue from the City Eleusinion.” *Zeitschrift für Papyrologie und Epigrafik 33* (1979): 93-115.
+This source can provide information about the Medal of Honor recipients which the Medal of Honor Society’s website may not provide. It is important to have historical context behind the data. 
 
-If you want, you can break your bibliography into different sections, for example, one section for traditional historiography, and another for digitally related works. You do not have to do this though.
+U.S. Army Center Of Military History, history.army.mil/index.html.
+
+	This is yet another source which I would like to use to provide historical background and context behind the wars in which soldiers received the Medal of Honor.
+
+U.S. Navy. “History and Display of Military Awards and Ribbons.” Navy Live, navylive.dodlive.mil/2014/11/18/history-and-display-of-military-awards-and-ribbons/.
+
+	This is yet another source which I would like to use to provide historical background and context behind the wars in which soldiers received the Medal of Honor. This website deals specifically with the history of United States military awards and ribbons. 
+
+“The Official Home Page of the United States Army.” Www.army.mil, www.army.mil/.
+
+I think that the official pages of the United States military branches may provide some interesting information which could be of use for the project. I would like to use this information in order to provide more historical context.
+
+Official Website of the United States Navy, www.navy.mil/.
+
+I think that the official pages of the United States military branches may provide some interesting information which could be of use for the project. I would like to use this information in order to provide more historical context.
+
+Official Website of the United States Marines, www.marines.mil
+
+I think that the official pages of the United States military branches may provide some interesting information which could be of use for the project. I would like to use this information in order to provide more historical context.
+
+“The Official Website of the United States Marine Corps.” The Official United States Marine Corps Public Website, www.marines.mil/.
+
+I think that the official pages of the United States military branches may provide some interesting information which could be of use for the project. I would like to use this information in order to provide more historical context.
+
+“U.S. Air Force.” U.S. Air Force, www.airforce.com/.
+
+I think that the official pages of the United States military branches may provide some interesting information which could be of use for the project. I would like to use this information in order to provide more historical context.
+
+“First Medal of Honor Action.” History.com, A&E Television Networks, www.history.com/this-day-in-history/first-medal-of-honor-action.
+
+I think that this source provides interesting information about the very first Medal of Honor action which could be used for the project in some way. 
+
