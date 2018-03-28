@@ -1,12 +1,11 @@
-# PUT YOUR PROPOSAL TITLE HERE
-
+# Medal of Honor Recipients in the United States Military
 ---
 
 ## Assignment for HIS4936, [Hacking History](http://hacking-history.readthedocs.io)
 
 ---
 
-![imgs/intro_img.jpg]
+![https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg]
 
 REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
 IF YOU LIKE.
@@ -74,59 +73,18 @@ have run into for this class...
 
 ### Introduction
 
-The introduction should let the reader know why they should care about the
-topic in general, and to the extent you are able at this time, what you are
-going to say (or ask about) that topic. Use the introduction to let the
-reader know basic facts, or to inform them (briefly)
+For this research project, I would like to explore the subject of Medal of Honor recipients in the United States Military. I think that this topic can be quite interesting to research, given that I have not had much exposure to the various Medal of Honor recipients and their acts of bravery. I feel that the other group members and I can learn much about this topic through this research project. Some different questions I would like to have answered through this project are: “During which conflict was the Medal of Honor awarded the most?”, “Which branch if the United States Military included the most recipients of the Medal?”, “Which states had the most Medal recipients as their residents?”. There may be more questions which I would like to explore, but these are just a few ideas. 
 
-Even where you are not sure of exactly where you are going. Try to give the
-reader (namely, me) an idea about the the context of the problem or question
-you are going to tackle. Above all, you should let the reader know
-**why they should care**.
+I think that the reader should care about this project because of the interesting stories can be learned of Medal of Honor recipients.
 
 ---
 
 ### Workflow
 
-When are where you think you might use certain information sources, let the
-reader know which sources of information you are going to use, and how you
-intend to get information from that source in a useable format.
-
-Next, to whatever extent possible, let the reader understand how you envision
-the overall workflow. That is, how do you intend to get from a to z. At this
-stage, you probably have a lot of uncertainties, but you should try to think
-this out as much as possible. What tool(s) do you intend to use for scraping?
-For cleaning, visualizing? Will you have to transform the data into different
-formats, if so how? How ensure that group members are not constantly waiting
-on a single member to complete their phase? Can you think of ways that group
-members can get updates in advance of the finished work, so that they can
-start their own work?
+The main data source which I would like to utilize for this project is the website for the Congressional Medal of Honor Society. This website is the society’s official website. This is a database which includes individual webpage/profiles for each recipient of the Medal of Honor. Each profile includes certain information about the recipient such as birthdate, birthplace, the date of the issue of the Medal, and more. The website is also divided into categories such as Living Recipients, Recent Recipients, and Double Recipients. There is much useful information on this website, and it serves as a very adequate database for functions such as web scraping and creating visuals on Tableau. The web scraper and Tableau are two tools which I would like to use in order to obtain the information and visualize it. As far as the job of each group member, one person can scrape the information from the website while another can experiment with different Tableau visuals. Those are just two examples on how each group member can help. 
 
 ---
 
-### Scholarship
 
-Here is where you should expand a bit on any relevant scholarship, whether
-digital or historical. If you refer to authors in your bibliography, you need
-only use parenthetical (author, year) notation. If you are referring to a web
-resource, you can always link directly to it.
-
-This section should not be a large histiographical essay going on about the
-merits or drawbacks of different individuals. That kind of discussion can go
-in your final project. Instead, this should be a place to let your reader know
-in the space of several paragraphs the basic schools of thought or important
-works of scholarship that relate to your project. More importantly, you can
-suggest what (potentially) a digital project such as the one you are proposing
-could say to such a debate.
-
-Remember that you can and should talk about both digital and historical
-scholarship, when relevant. [Digital Humanities Quarterly](www.digitalhumanities.org/dhq/)
-is a good starting point.
-
-Rather than think of this as a discussion about others, it might be more
-helpful to think of it like this: in academia there are lots of scattered, but
-important conversations going on, you can have more impact when you can connect
-what you are saying to more and more of these conversations. So, you can think
-of it like selling your project by linking it to its possible links to others.
 
 ---
