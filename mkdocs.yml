@@ -1,8 +1,8 @@
-site_name: Hacking History
+site_name: Warsaw Uprising Project
 theme_dir: theme
 site_url: https://hacking-history.readthedocs.io
 site_description: Project Proposal DH1 Hacking History, at USF
-site_author: David J. Thomas
+site_author: Michal Pietrusinski
 copyright: 'Copyright &copy; 2018 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
 repo_url: https://github.com/usf-portal/his4936-dh1-project-proposal.git
 repo_name: 'GitHub'
