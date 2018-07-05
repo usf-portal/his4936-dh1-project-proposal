@@ -1,4 +1,4 @@
-# PUT YOUR PROPOSAL TITLE HERE
+# Trade in the Ancient Mediterranean
 
 ---
 
