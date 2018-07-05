@@ -6,7 +6,7 @@
 
 ---
 
-![imgs/intro_img.jpg]
+![Intro image](imgs/intro_img.jpg)
 
 REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
 IF YOU LIKE.
