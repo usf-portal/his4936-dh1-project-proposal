@@ -85,6 +85,8 @@ you are going to tackle. Above all, you should let the reader know
 
 ![Bill Russell](https://cdn-s3.si.com/s3fs-public/bill-russell-getty2.jpg)
 
+![Kobe and Lebron](https://cdn.vox-cdn.com/thumbor/4Yos1O3PH67Rq840-NwRgQ0waag=/0x105:3000x2105/1200x800/filters:focal(0x105:3000x2105)/cdn.vox-cdn.com/uploads/chorus_image/image/48779957/GettyImages-462505396.0.jpg)
+
 ---
 
 ### Workflow
