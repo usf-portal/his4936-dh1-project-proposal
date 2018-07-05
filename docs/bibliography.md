@@ -6,6 +6,8 @@ a single astrix to make text *italicized*, which you should use for book
 titles. Remember to use Markdown to create links to any web resources in your
 bibliography.
 
+Some change
+
 Below are a few examples
 
 * Cheyette, Fredric L. *Ermengard of Narbonne and the World of the Troubadours*.  Ithaca, Cornell University Press, 2001.
