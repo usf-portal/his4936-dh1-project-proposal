@@ -6,7 +6,7 @@
 
 ---
 
-![imgs/intro_img.jpg]
+![Intro Image](https://theundefeated.com/wp-content/uploads/2017/05/nba-logo.png)
 
 REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
 IF YOU LIKE.
