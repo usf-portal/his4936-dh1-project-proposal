@@ -1,4 +1,4 @@
-# PUT YOUR PROPOSAL TITLE HERE
+# The Evolution of Professional Basketball in the United States
 
 ---
 
