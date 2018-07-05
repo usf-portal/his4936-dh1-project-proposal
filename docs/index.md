@@ -86,6 +86,7 @@ you are going to tackle. Above all, you should let the reader know
 ![Bill Russell](https://cdn-s3.si.com/s3fs-public/bill-russell-getty2.jpg)
 
 ![Wilt and Bill](http://sneakerhistory.com/wp-content/uploads/2015/08/Wilt-Chamberlain-and-Bill-Russell-in-Converse-Chuck-Taylor-All-Star.jpg)
+
 Wilt Chamberlain (Left) and Bill Russell (Right), two stars during their era, started one of the first rivalries in professional basketball.
 
 ![Michael Jordan](https://i.kinja-img.com/gawker-media/image/upload/s--_YyOkDCs--/c_scale,f_auto,fl_progressive,q_80,w_800/18equ9kf1w96wjpg.jpg)
