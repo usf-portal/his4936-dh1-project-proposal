@@ -83,6 +83,8 @@ reader (namely, me) an idea about the the context of the problem or question
 you are going to tackle. Above all, you should let the reader know
 **why they should care**.
 
+![Bill Russell](https://cdn-s3.si.com/s3fs-public/bill-russell-getty2.jpg)
+
 ---
 
 ### Workflow
