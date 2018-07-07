@@ -18,3 +18,15 @@ Below are a few examples
 * Geagan, Daniel. “The Great Catalogue from the City Eleusinion.” *Zeitschrift für Papyrologie und Epigrafik 33* (1979): 93-115.
 
 If you want, you can break your bibliography into different sections, for example, one section for traditional historiography, and another for digitally related works. You do not have to do this though.
+
+Batchelor, Bob. *Basketball in America: From the Playgrounds to Jordan's Game and Beyond*. New York, The Haworth Press, 2005.
+
+Embry, Wayne and Mary Schmitt Boyer. *The Inside Game: Race, Power, and Politics in the NBA*. Akron, The University of Akron Press, 2004.
+
+Farred, Grant. *Phantom Calls: Race and the Globalization of the NBA*. Chicago, Prickly Paradigm Press, 2006.
+
+LaFeber, Walter. *Michael Jordan and the New Global Capitalism*. New York, W. W. Norton & Company, 1999.
+
+Nelson, Murray R. *Bill Russell: A Biography*. Westport, Greenwood Press, 2005.
+
+Taylor, John. *The Rivalry: Bill Russell, Wilt Chamberlain, and the Golden Age of Basketball*. New York, Random House, 2005.
