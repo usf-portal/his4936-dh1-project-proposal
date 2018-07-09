@@ -1,4 +1,4 @@
-# ABA-NBA History
+# The Evolution of Professional Basketball in the United States
 
 ---
 
@@ -82,6 +82,10 @@ Even where you are not sure of exactly where you are going. Try to give the
 reader (namely, me) an idea about the the context of the problem or question
 you are going to tackle. Above all, you should let the reader know
 **why they should care**.
+
+Basketball is currently one of the most played sports worldwide. Basketball was invented in the United States in 1891 by James Naismith and initially consisted of pick-up games that made players score the ball inside of a basketball hoop. Basketball quickly grew popular and a league where teams competed against each other was formed in 1898. The popularity of basketball constantly grew and led to the formation of a new professional league, the National Basketball Association (NBA), in 1946. Another league, the American Basketball Association (ABA), was formed in 1967, however the ABA and NBA later merged together in 1976 under the name of the NBA. Today, the NBA and basketball in general continues to grow thanks to the fans and the players.
+
+In this proposal, I aim to target how key figures, such as Bill Russell and Michael Jordan, helped revolutionize basketball and led the NBA to become what it is today.
 
 ![Bill Russell](https://cdn-s3.si.com/s3fs-public/bill-russell-getty2.jpg)
 
