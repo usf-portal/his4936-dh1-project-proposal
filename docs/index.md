@@ -48,27 +48,6 @@ For my workflow, I intend to research through and analyze my sources, and gather
 
 ### Scholarship
 
-Here is where you should expand a bit on any relevant scholarship, whether
-digital or historical. If you refer to authors in your bibliography, you need
-only use parenthetical (author, year) notation. If you are referring to a web
-resource, you can always link directly to it.
-
-This section should not be a large histiographical essay going on about the
-merits or drawbacks of different individuals. That kind of discussion can go
-in your final project. Instead, this should be a place to let your reader know
-in the space of several paragraphs the basic schools of thought or important
-works of scholarship that relate to your project. More importantly, you can
-suggest what (potentially) a digital project such as the one you are proposing
-could say to such a debate.
-
-Remember that you can and should talk about both digital and historical
-scholarship, when relevant. [Digital Humanities Quarterly](www.digitalhumanities.org/dhq/)
-is a good starting point.
-
-Rather than think of this as a discussion about others, it might be more
-helpful to think of it like this: in academia there are lots of scattered, but
-important conversations going on, you can have more impact when you can connect
-what you are saying to more and more of these conversations. So, you can think
-of it like selling your project by linking it to its possible links to others.
+The NBA is one of the American sports league with a notable historic background. There are many works by authors that focus on racism in the NBA, as the blacks players are often stereotyped as "high-salaried drug-sniffing black guys" (Agyemang and Singer 2014), how they were initially underpaid compared to white players (Koch and Vander Hill 1988), and how the black player-white team owner relationship is similar to the black slave-white slave owner relationship. Furthermore, as the NBA was originally an all-white league, but with the help of Bill Russell, the first black NBA superstar, helped integrate black athletes with white athletes in the NBA (Nelson 2005, Goudsouzian 2006). Many authors that have written about Bill Russell's significant contribution believe that this was one of the major stepping stones in the development of the modern NBA, as the majority of the players are black. Bill Russell wasn't the only person to help integrate non-white races into the NBA, as many authors believe that Yao Ming was a huge influencer in bringing Asians into the NBA and popularizing basketball in Asia (Farred 2006, Keeler and Nauright 2005). Lastly, other authors have focused on the capitalistic side of basketball, as Michael Jordan essentially made millions off of his signature shoes, thus giving other atheletes such as Kobe Bryant and LeBron James an opportunity to make money from things other than their regular NBA salary (LeFeber 1999).
 
 ---
