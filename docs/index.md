@@ -81,13 +81,17 @@ In this proposal, I aim to target how key figures, such as Bill Russell and Mich
 
 Originally basketball began as a white-dominated league with few, if any, minorities. However, this all changed as soon as Bill Russell arrived in the NBA. By dealing with the criticisms and racist comments and proving everyone making those comments wrong, Russell opened up a path for black athletes in the NBA. The path opened up by Russell led the NBA to become a black-dominated league, paving the path for future NBA legends such as Wilt Chamberlain, Oscar Robertson, Kareem Abdul-Jabbar, Magic Johnson, and Michael Jordan to be successful in the NBA. Lastly, this Boston Celtics legend has one of the most significant accolades held by a single NBA player, as he played from 1956 to 1969, served as a player and coach from 1966 to 1969, leading his team is eleven championship titles, currently still the most championships won by a single player.
 
-![Wilt and Bill](http://sneakerhistory.com/wp-content/uploads/2015/08/Wilt-Chamberlain-and-Bill-Russell-in-Converse-Chuck-Taylor-All-Star.jpg)
+![Yao Ming](http://www.xinhuanet.com/english/2017-02/04/136031062_14862621961471n.jpg)
 
-Wilt Chamberlain (Left) and Bill Russell (Right), started one of the first rivalries in professional basketball.
+Bill Russell wasn't the only person to pave the way for a non-white race to come into the NBA, as Yao Ming helped bring more Asians into the NBA. Yao destroyed all of the stereotypes of Asians being to small, as this 7'6" giant came into the league as one of the tallest players to play in the NBA. Though his career was cut short due to injuries, this Hall of Fame basketball star was able to inspire fellow Asians, such as Yi Jianlian and Jeremy Lin, to attempt a career in the NBA.
 
-![Michael Jordan](https://i.kinja-img.com/gawker-media/image/upload/s--_YyOkDCs--/c_scale,f_auto,fl_progressive,q_80,w_800/18equ9kf1w96wjpg.jpg)
+![Michael and Scottie](https://mk0slamonlinensgt39k.kinstacdn.com/wp-content/uploads/2017/12/rsz_gettyimages-71052255.jpg)
+
+Michael Jordan, known to many basketball fans as the GOAT (Greatest-Of-All-Time), . Jordan, along with Hall of Famer Scottie Pippen, led the Chicago Bulls to a total of six NBA Finals appearances, and a total of six championships, therefore being undefeated in an NBA Finals matchup. Michael Jordan not only revolutionized the NBA, he revolutionized the world through Air Jordan, a sub-company of Nike that produces shoes, clothing, and accessories. Air Jordan became the most succesful brand from a basketball player, and inspired other NBA players to create their own shoes and clothing lines.
 
 ![Kobe and Lebron](https://cdn.vox-cdn.com/thumbor/4Yos1O3PH67Rq840-NwRgQ0waag=/0x105:3000x2105/1200x800/filters:focal(0x105:3000x2105)/cdn.vox-cdn.com/uploads/chorus_image/image/48779957/GettyImages-462505396.0.jpg)
+
+Lastly there is the "Black Mamba" Kobe Bryant, and "The King" LeBron James. By following the path that Michael Jordan set for them, these two desired to become the greatest. One step that both Bryant and James was signing with Nike, thus creating their own signature shoes, and is one of the most popular Nike shoes on the market.
 
 ---
 
