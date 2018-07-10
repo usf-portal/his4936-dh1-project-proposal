@@ -1,4 +1,4 @@
-# The Evolution of Male Professional Basketball in the United States
+# The NBA: From Dealing With Racism Issues to Becoming a Global Market
 
 ---
 
