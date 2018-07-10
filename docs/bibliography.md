@@ -20,6 +20,8 @@ In Chatterjee and Yilmaz's journal article, the two discuss how the NBA is conti
 
 DrGuillermo. "NBA Player stats since 1950." kaggle.com. Last modified May 2018.
 
+DrGuillermo's datasets are important to my research because he analyzed every player's data to ever play in the NBA. With this data, I intend to analyze each player's averages per game, how long they played in the NBA, the average height and weight of an NBA players, which attended college for basketball, and the ratios of different races in the NBA.
+
 https://www.kaggle.com/drgilermo/nba-players-stats
 
 ---
@@ -68,6 +70,8 @@ LaFeber's book relates to my research because he talks about Michael Jordan and 
 
 Malherbe, Tristian. "NBA Finals and MVPs." data.world. Last modified June 8, 2018.
 
+Malherbe's datasets are significant to my research because he analyzed the history of NBA Finals. With his dataset, I intend to analyze how many teams have played in the NBA Finals and how times they made an appearance, and each team's win ratio.
+
 https://data.world/datatouille/nba-finals-and-mvps
 
 ---
@@ -80,17 +84,23 @@ Nelson's book relates to my research because he discusses the life and career of
 
 Salzer, Gabe. "NBA Team Annual Attendance." data.world. Last modified June 8, 2018.
 
+Salzer's dataset relates to my research because he analyzes the amount of attendees in an NBA game from 2000 to 2015. With his dataset, I intend to examine the amount of attendees per game and the estimated amount of money each team generated per game for the amount of attendees.
+
 https://data.world/gmoney/nba-team-annual-attendance
 
 ---
 
 Salzer, Gabe. "NBA Teams Records by Year." data.world. Last modified June 8, 2018.
 
+Salzer's dataset relates to my research because he analyzes each team's win record since the NBA was founded. With this, I plan to analyze each team's win ratio from it's foundation to the present day, and to see if there is a correlation between the amount of wins and whether or not they win the NBA Finals.
+
 https://data.world/gmoney/nba-team-records-by-year
 
 ---
 
 Salzer, Gabe and Selene Arrazolo. "NBA Player's Birthplaces." data.world. Last modified June 7, 2018.
+
+This dataset is important to my research because Salzer and Arrazolo analyzed each player's birthplace. With their dataset, I intend to examine which countries and states produce the most NBA players.
 
 https://data.world/gmoney/nba-players-birthplaces
 
