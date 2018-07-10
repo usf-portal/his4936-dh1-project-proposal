@@ -75,3 +75,5 @@ Taylor's book relates to my research because he explains the early stages of the
 Wright, Joshua. "Be Like Mike? The Black Athlete's Dilemma." *Spectrum: A Journal on Black Men* 4, no. 2 (2016): 1-19.
 
 In Wright's journal article, he discusses the dilemma of either following the path of Michael Jordan, failing to follow Jordan, or creating their own career path in the NBA. Wright's article relates to my research because he explains that though Michael Jordan is a role model for basketball players, he failed to create a social change in the world. This idea causes athletes to think about their decisions involving things such as race and beliefs because they can either strive for greatness, or strive to change the world.
+
+---
