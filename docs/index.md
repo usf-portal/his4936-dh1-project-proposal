@@ -1,4 +1,4 @@
-# The Evolution of Professional Basketball in the United States
+# The Evolution of Male Professional Basketball in the United States
 
 ---
 
@@ -73,25 +73,17 @@ have run into for this class...
 
 ### Introduction
 
-The introduction should let the reader know why they should care about the
-topic in general, and to the extent you are able at this time, what you are
-going to say (or ask about) that topic. Use the introduction to let the
-reader know basic facts, or to inform them (briefly)
-
-Even where you are not sure of exactly where you are going. Try to give the
-reader (namely, me) an idea about the the context of the problem or question
-you are going to tackle. Above all, you should let the reader know
-**why they should care**.
-
 Basketball is currently one of the most played sports worldwide. Basketball was invented in the United States in 1891 by James Naismith and initially consisted of pick-up games that made players score the ball inside of a basketball hoop. Basketball quickly grew popular and a league where teams competed against each other was formed in 1898. The popularity of basketball constantly grew and led to the formation of a new professional league, the National Basketball Association (NBA), in 1946. Another league, the American Basketball Association (ABA), was formed in 1967, however the ABA and NBA later merged together in 1976 under the name of the NBA. Today, the NBA and basketball in general continues to grow thanks to the fans and the players.
 
 In this proposal, I aim to target how key figures, such as Bill Russell and Michael Jordan, helped revolutionize basketball and led the NBA to become what it is today.
 
 ![Bill Russell](https://cdn-s3.si.com/s3fs-public/bill-russell-getty2.jpg)
 
+Originally basketball began as a white-dominated league with few, if any, minorities. However, this all changed as soon as Bill Russell arrived in the NBA. By dealing with the criticisms and racist comments and proving everyone making those comments wrong, Russell opened up a path for black athletes in the NBA. The path opened up by Russell led the NBA to become a black-dominated league, paving the path for future NBA legends such as Wilt Chamberlain, Oscar Robertson, Kareem Abdul-Jabbar, Magic Johnson, and Michael Jordan to be successful in the NBA. Lastly, this Boston Celtics legend has one of the most significant accolades held by a single NBA player, as he played from 1956 to 1969, served as a player and coach from 1966 to 1969, leading his team is eleven championship titles, currently still the most championships won by a single player.
+
 ![Wilt and Bill](http://sneakerhistory.com/wp-content/uploads/2015/08/Wilt-Chamberlain-and-Bill-Russell-in-Converse-Chuck-Taylor-All-Star.jpg)
 
-Wilt Chamberlain (Left) and Bill Russell (Right), two stars during their era, started one of the first rivalries in professional basketball.
+Wilt Chamberlain (Left) and Bill Russell (Right), started one of the first rivalries in professional basketball.
 
 ![Michael Jordan](https://i.kinja-img.com/gawker-media/image/upload/s--_YyOkDCs--/c_scale,f_auto,fl_progressive,q_80,w_800/18equ9kf1w96wjpg.jpg)
 
