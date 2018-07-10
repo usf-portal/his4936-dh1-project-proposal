@@ -9,7 +9,7 @@
 * "Databases." The Oxford Roman Economy Project. Accessed July 10, 2018. http://oxrep.classics.ox.ac.uk/databases/shipwrecks_database/.
 	* This website is where the database is located. This is where I downloaded the excel spreadsheet. 
 
-*"Making Your Data Legible: A Basic Introduction to Visualizations." The Historian's Macroscope: Big Digital History. Accessed July 10, 2018. http://www.themacroscope.org/?page_id=837.
+* "Making Your Data Legible: A Basic Introduction to Visualizations." The Historian's Macroscope: Big Digital History. Accessed July 10, 2018. http://www.themacroscope.org/?page_id=837.
 	* Having read this article in class it supplies a wealth of information on data visualization. It explains which visualizations are best for each type of data. 
 
 * "Roman Sarcophagi." The Metropolitan Museum of Art, I.e. The Met Museum. Accessed July 10, 2018. https://www.metmuseum.org/toah/hd/rsar/hd_rsar.htm.
