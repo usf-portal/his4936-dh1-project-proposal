@@ -7,7 +7,7 @@ Proposal & Bibliography
 
 ---
 ## The Proposal
-https://99percentinvisible.org/episode/milk-carton-kids/
+<img src="https://99percentinvisible.org/episode/milk-carton-kids/"
 
 ---
 ### Introduction
