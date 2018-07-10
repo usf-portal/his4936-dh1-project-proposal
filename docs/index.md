@@ -1,4 +1,56 @@
-# PUT YOUR PROPOSAL TITLE HERE
+# WARSAW UPRISING 1944
+
+Michal Pietrusinski, Norberto Martinez
+HIS 4936
+Professor Thomas
+10 July 2018
+
+# Proposal
+	
+Our group’s research topic is the Warsaw Uprising (Polish: Powstanie Warszawskie) that occurred during World War II. The 
+
+Uprising began on 1 August 1944 and ended on 2 October 1944 furthermore, it was a major part of a nationwide operation 
+
+referred to as "Operation Tempest", launched at the time of the Soviet Lublin–Brest Offensive. The main Polish objectives were 
+
+to drive the Germans out of Warsaw while helping the Allies defeat Germany. The Uprising was expected to last about a week and 
+
+was seen largely as a “mopping-up” operation; however, it turned out to be a miscalculation. The Germans decided to make a 
+
+stand and defend “fortress” Warsaw as the Soviets halted their offensive. The uprising lasted not one but nine weeks, turning 
+
+into the longest and bloodiest urban insurgency of the Second World War.
+
+# The questions we want to explore:
+
+Who were the eyewitnesses? Soldiers/ Civilians
+
+Where were the German strategic positions in Warsaw?
+
+What kind of weapons were used by the Polish Home Army (Polish: Armia Krajowa)?
+
+The timeline of the Uprising, with the emphasis on the witness accounts. 
+	
+As of today, we will be using the Warsaw Uprising website http://www.warsawuprising.com/index.htm, and in particular “the eye 
+
+witness” account page from the Polish and German perspective. We plan to use the Webscraper program to gather the information, 
+
+format-it through Atom / Open Refine, and plug-in the data into Orange3 and/or Gephi. Furthermore, we hypothesize that the 
+
+data gathered from the Warsaw Uprising eye witness accounts can be put through the network analysis widget in Orange3 and 
+
+create a network visual. Gephi will be used as a secondary tool for primarily network analysis of the data gathered from the 
+
+eyewitness accounts.
+
+Group Leader Mike (Michal) is going to use GitHub as a repository for all the research data and formatting, Tableau for 
+
+creating visual data perspective, and Atom/ Open Refine for formatting the information collected. Norberto will use Webscraper 
+
+to gather the data from websites and Orange3 and/or Gephi to also create network visual data analysis perspective.
+
+
+
 
 ---
 
