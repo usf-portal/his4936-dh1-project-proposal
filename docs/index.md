@@ -6,7 +6,7 @@
 
 ---
 
-[!](imgs/ACT_UP.jpg)
+![act up](imgs/ACT_UP.jpg)
 
 ---
 
