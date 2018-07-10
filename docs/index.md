@@ -6,66 +6,9 @@
 
 ---
 
-![Intro Image](https://theundefeated.com/wp-content/uploads/2017/05/nba-logo.png)
+![NBA Logo](https://theundefeated.com/wp-content/uploads/2017/05/nba-logo.png)
 
 The current logo of the NBA as of 2018 (Note: the silhouette in the logo is Jerry West, also known as "The Logo," one of the most notable players from the Los Angeles Lakers).
-
----
-
-REMEMBER TO USE THE [Markdown Cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-FOR ALL EXTERNAL LINKS OR IMAGES, JUST PAST THE URL INSIDE THE PARENTHESES
-
-FOR LOCAL LINKS OR IMAGES, ALL PATHS START FROM THE `docs` DIRECTORY. SO TO
-LINK TO ANY IMAGE YOU STORED DIRECTLY INSIDE THE `imgs` DIRECTORY, YOU ONLY
-NEED TO MAKE THE PATH LIKE THIS `imgs/some_image.jpg`. NOTE: YOU SHOULD *NOT*
-START PATHS WITH A `/`. See the examples above.
-
----
-
-WHEN COMPOSING YOUR PROPOSAL REMEMBER YOU CAN...
-
-* Remember that you can...
-* Put items in lists
-* Even
-    * Nested
-    * Lists
-
-1. You can also
-2. Use numbered
-    1. Lists
-    2. And Nest them
-
----
-
-Use triple dashes (like below) to separate sections of your text
-
----
-
-Remember you can use `single backticks` to quote code inline, or use triple
-backticks to make a blockquote of code (you can even specify the language,
-if you want).
-
-```markdown
-
-# Quoted Markdown
-
-When this is put on the web this will appear in the in raw Markdown. That is,
-this will appear inside a code blockquote, this will not be rendered as
-part of the webpage. Instead, it will look very similar to how you are seeing
-it now, inside the editor.
-
-You can do this for pretty much any language or format we
-have run into for this class...
-
-* python
-* csv
-* json
-* et.c.
-
-```
-
----
 
 ---
 
@@ -91,25 +34,15 @@ Michael Jordan, known to many basketball fans as the GOAT (Greatest-Of-All-Time)
 
 ![Kobe and Lebron](https://cdn.vox-cdn.com/thumbor/4Yos1O3PH67Rq840-NwRgQ0waag=/0x105:3000x2105/1200x800/filters:focal(0x105:3000x2105)/cdn.vox-cdn.com/uploads/chorus_image/image/48779957/GettyImages-462505396.0.jpg)
 
-Lastly there is the "Black Mamba" Kobe Bryant, and "The King" LeBron James. By following the path that Michael Jordan set for them, these two desired to become the greatest. One step that both Bryant and James was signing with Nike, thus creating their own signature shoes, and is one of the most popular Nike shoes on the market.
+Lastly, there is the "Black Mamba" Kobe Bryant, and "The King" LeBron James. By following the path that Michael Jordan set for them, these two desired to become the greatest. One step that both Bryant and James was signing with Nike, thus creating their own signature shoes, and is one of the most popular Nike shoes on the market.
 
 ---
 
 ### Workflow
 
-When are where you think you might use certain information sources, let the
-reader know which sources of information you are going to use, and how you
-intend to get information from that source in a useable format.
+For my information sources, I intend on using books from the University of South Florida library and journal articles found on JSTOR on the globalization and rise of popularity of basketball and the NBA, race issues in the NBA, how Bill Russell and Yao Ming helped changed stereotypes on Black and Asian athletes, and how Michael Jordan essentially monopolized the world with Air Jordan.
 
-Next, to whatever extent possible, let the reader understand how you envision
-the overall workflow. That is, how do you intend to get from a to z. At this
-stage, you probably have a lot of uncertainties, but you should try to think
-this out as much as possible. What tool(s) do you intend to use for scraping?
-For cleaning, visualizing? Will you have to transform the data into different
-formats, if so how? How ensure that group members are not constantly waiting
-on a single member to complete their phase? Can you think of ways that group
-members can get updates in advance of the finished work, so that they can
-start their own work?
+For my workflow, I intend to research through and analyze my sources, and gathering information and organizing it into the categories above. For my final website design I intend on having a tab for the early stages of the NBA and the era of Bill Russell, the rise of Michael Jordan, and lastly a section that talks about the modern NBA. For my data research, I initially intended to web-scrape basketball-reference.com, but I realized that DrGuillermo has already done that and posted his data onto kaggle.com (https://www.kaggle.com/drgilermo/nba-players-stats). I intend to use his player data, players, and seasons stats csv files in order to tackle questions such as what is the average height and weight of an NBA player, the average points an NBA player scores in the NBA, the average amount of years someone stays in the NBA, the ratio of how many players did or didn't go to college before entering the NBA, and the ratios of different races in the NBA. Lastly, I will create visuals for these different categories through Tableau.
 
 ---
 
