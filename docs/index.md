@@ -38,27 +38,14 @@ Catherine will be working as the project manager and the data scientist, Kelly w
 
 ### Scholarship
 
-Here is where you should expand a bit on any relevant scholarship, whether
-digital or historical. If you refer to authors in your bibliography, you need
-only use parenthetical (author, year) notation. If you are referring to a web
-resource, you can always link directly to it.
+Unfortunately, there is a lacking in proper digital humanities projects within the field of LGBT histories. However, there are sources
+and applications available to start these various projects. There are several small collections of oral histories, databases of art by
+LGBT creators, and countless texts on the topic that can be analyzed to uncover further meaning in how LGBT history is covered in the
+academic community.
 
-This section should not be a large histiographical essay going on about the
-merits or drawbacks of different individuals. That kind of discussion can go
-in your final project. Instead, this should be a place to let your reader know
-in the space of several paragraphs the basic schools of thought or important
-works of scholarship that relate to your project. More importantly, you can
-suggest what (potentially) a digital project such as the one you are proposing
-could say to such a debate.
+However, websites such as The LGBT Oral History Digital Collaboratory are prime examples of the growth among the LGBT Histories
+community. Showing that through the collection of oral histories and their transcripts, historians and activists are unknowingly
+beginning to contribute to the digital future of historical research.
 
-Remember that you can and should talk about both digital and historical
-scholarship, when relevant. [Digital Humanities Quarterly](www.digitalhumanities.org/dhq/)
-is a good starting point.
-
-Rather than think of this as a discussion about others, it might be more
-helpful to think of it like this: in academia there are lots of scattered, but
-important conversations going on, you can have more impact when you can connect
-what you are saying to more and more of these conversations. So, you can think
-of it like selling your project by linking it to its possible links to others.
 
 ---
