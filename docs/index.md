@@ -6,7 +6,7 @@
 
 ---
 
-![NBA Logo](https://theundefeated.com/wp-content/uploads/2017/05/nba-logo.png)
+![NBA Logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4c/NBA_Horizontal_Logo_.svg/revision/latest?cb=20160207144301)
 
 The current logo of the NBA as of 2018 (Note: the silhouette in the logo is Jerry West, also known as "The Logo," one of the most notable players from the Los Angeles Lakers).
 
