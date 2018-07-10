@@ -6,7 +6,7 @@
 
 ---
 
-![imgs/intro_img.jpg]
+![imgs/ACT_UP.jpg]
 
 ---
 
