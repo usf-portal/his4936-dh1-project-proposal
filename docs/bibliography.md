@@ -18,6 +18,12 @@ In Chatterjee and Yilmaz's journal article, the two discuss how the NBA is conti
 
 ---
 
+DrGuillermo. "NBA Player stats since 1950" last modified May 2018.
+
+https://www.kaggle.com/drgilermo/nba-players-stats
+
+---
+
 Embry, Wayne and Mary Schmitt Boyer. *The Inside Game: Race, Power, and Politics in the NBA*. Akron, The University of Akron Press, 2004.
 
 Embry and Schmitt Boyer's book relates to my research because it discusses the career of Wayne Embry, another pivital figure in the NBA that helped lead the league to becoming more inclusive of black players. Furthermore, this book also relates to my research because it explains how Embry transitioned his career and became the first African-American general manager and team president in the NBA.
@@ -60,9 +66,33 @@ LaFeber's book relates to my research because he talks about Michael Jordan and 
 
 ---
 
+Malherbe, Tristian. "NBA Finals and MVPs" last modified June 8, 2018.
+
+https://data.world/datatouille/nba-finals-and-mvps
+
+---
+
 Nelson, Murray R. *Bill Russell: A Biography*. Westport, Greenwood Press, 2005.
 
 Nelson's book relates to my research because he discusses the life and career of Bill Russell. He explains how Russell dealt with racism and criticism in his early career in the 1940s and 1950s, and how he later became a stepping stone for black athletes in the NBA.
+
+---
+
+Salzer, Gabe. "NBA Team Annual Attendance" last modified June 8, 2018.
+
+https://data.world/gmoney/nba-team-annual-attendance
+
+---
+
+Salzer, Gabe. "NBA Teams Records by Year" last modified June 8, 2018.
+
+https://data.world/gmoney/nba-team-records-by-year
+
+---
+
+Salzer, Gabe and Selene Arrazolo. "NBA Player's Birthplaces" last modified June 7, 2018.
+
+https://data.world/gmoney/nba-players-birthplaces
 
 ---
 
