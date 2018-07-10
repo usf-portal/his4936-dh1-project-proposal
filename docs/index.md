@@ -1,4 +1,4 @@
-# ACTUP Oral Histories Analysis
+# **ACTUP Oral Histories Analysis**
 
 ---
 
