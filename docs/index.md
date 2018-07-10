@@ -1,8 +1,12 @@
-# ACT UP ORAL HISTORIES ANALYSIS
+# ACTUP Oral Histories Analysis
 
 ---
 
 ## Assignment for HIS4936, [Hacking History](http://hacking-history.readthedocs.io)
+
+---
+
+#### *By Catherine Cueto and Kelly Teel*
 
 ---
 
