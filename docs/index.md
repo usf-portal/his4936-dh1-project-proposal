@@ -30,7 +30,7 @@ The history of ACT UP is very much so a product of the modern era, the organizat
 ### Workflow
 
 
-We hope to successfully scrape data from actuporalhistory.org using Google’s Web Scrape feature. If we are able to successfully achieve this mission, we intend to utilize Tableau and perhaps Orange Three. Tableau could be used to map geographic locations of resistance or oppression, and Orange Three to provide a linguistic analysis of the data. 
+We hope to successfully scrape data from [ACTUP Oral History Project](actuporalhistory.org) using Google’s Web Scrape feature. If we are able to successfully achieve this mission, we intend to utilize Tableau and perhaps Orange Three. Tableau could be used to map geographic locations of resistance or oppression, and Orange Three to provide a linguistic analysis of the data. 
 Catherine will be working as the project manager and the data scientist, Kelly will be handling the visualizations and source analysis. Although we have decided that these specific tasks will be the responsibility of particular group members, this is not an absolute and we intend to accomplish all tasks as a team, sharing responsibility and mutually supporting one another. We will both handle the writeups on methodology, data, visualizations and the conclusion. As we approach this topic, we intend to consider geographic location, age, race, gender identity, biological sex, and class. We understand that history and events do not occur in a vacuum, therefore we shall consider the zeitgeists of the 80s and 90s as we engage with identity politics. It is our hope to provide meaning and tell a valuable story of resistance through data.
 
 
