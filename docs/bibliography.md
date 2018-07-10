@@ -18,7 +18,7 @@ In Chatterjee and Yilmaz's journal article, the two discuss how the NBA is conti
 
 ---
 
-DrGuillermo. "NBA Player stats since 1950" last modified May 2018.
+DrGuillermo. "NBA Player stats since 1950." kaggle.com. Last modified May 2018.
 
 https://www.kaggle.com/drgilermo/nba-players-stats
 
@@ -66,7 +66,7 @@ LaFeber's book relates to my research because he talks about Michael Jordan and 
 
 ---
 
-Malherbe, Tristian. "NBA Finals and MVPs" last modified June 8, 2018.
+Malherbe, Tristian. "NBA Finals and MVPs." data.world. Last modified June 8, 2018.
 
 https://data.world/datatouille/nba-finals-and-mvps
 
@@ -78,19 +78,19 @@ Nelson's book relates to my research because he discusses the life and career of
 
 ---
 
-Salzer, Gabe. "NBA Team Annual Attendance" last modified June 8, 2018.
+Salzer, Gabe. "NBA Team Annual Attendance." data.world. Last modified June 8, 2018.
 
 https://data.world/gmoney/nba-team-annual-attendance
 
 ---
 
-Salzer, Gabe. "NBA Teams Records by Year" last modified June 8, 2018.
+Salzer, Gabe. "NBA Teams Records by Year." data.world. Last modified June 8, 2018.
 
 https://data.world/gmoney/nba-team-records-by-year
 
 ---
 
-Salzer, Gabe and Selene Arrazolo. "NBA Player's Birthplaces" last modified June 7, 2018.
+Salzer, Gabe and Selene Arrazolo. "NBA Player's Birthplaces." data.world. Last modified June 7, 2018.
 
 https://data.world/gmoney/nba-players-birthplaces
 
