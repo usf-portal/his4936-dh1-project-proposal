@@ -1,132 +1,39 @@
-# PUT YOUR PROPOSAL TITLE HERE
+Missing Children in the US from 1984 to 2017
+
+Achia Williams
+7/10/2018
+Proposal & Bibliography
+## Summer 2018 HIS4936, [Digital Humanities ](http://hacking-history.readthedocs.io)
 
 ---
-
-## Assignment for HIS4936, [Hacking History](http://hacking-history.readthedocs.io)
-
----
-
-![imgs/intro_img.jpg]
-
-REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
-IF YOU LIKE.
-
----
-
-REMEMBER TO USE THE [Markdown Cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-FOR ALL EXTERNAL LINKS OR IMAGES, JUST PAST THE URL INSIDE THE PARENTHESES
-
-FOR LOCAL LINKS OR IMAGES, ALL PATHS START FROM THE `docs` DIRECTORY. SO TO
-LINK TO ANY IMAGE YOU STORED DIRECTLY INSIDE THE `imgs` DIRECTORY, YOU ONLY
-NEED TO MAKE THE PATH LIKE THIS `imgs/some_image.jpg`. NOTE: YOU SHOULD *NOT*
-START PATHS WITH A `/`. See the examples above.
-
----
-
-WHEN COMPOSING YOUR PROPOSAL REMEMBER YOU CAN...
-
-* Remember that you can...
-* Put items in lists
-* Even
-    * Nested
-    * Lists
-
-1. You can also
-2. Use numbered
-    1. Lists
-    2. And Nest them
-
----
-
-Use triple dashes (like below) to separate sections of your text
-
----
-
-Remember you can use `single backticks` to quote code inline, or use triple
-backticks to make a blockquote of code (you can even specify the language,
-if you want).
-
-```markdown
-
-# Quoted Markdown
-
-When this is put on the web this will appear in the in raw Markdown. That is,
-this will appear inside a code blockquote, this will not be rendered as
-part of the webpage. Instead, it will look very similar to how you are seeing
-it now, inside the editor.
-
-You can do this for pretty much any language or format we
-have run into for this class...
-
-* python
-* csv
-* json
-* et.c.
-
-```
-
----
-
----
-
 ## The Proposal
+"https://99percentinvisible.org/episode/milk-carton-kids/"
 
+---
 ### Introduction
-
-The introduction should let the reader know why they should care about the
-topic in general, and to the extent you are able at this time, what you are
-going to say (or ask about) that topic. Use the introduction to let the
-reader know basic facts, or to inform them (briefly)
-
-Even where you are not sure of exactly where you are going. Try to give the
-reader (namely, me) an idea about the the context of the problem or question
-you are going to tackle. Above all, you should let the reader know
-**why they should care**.
+My research topic is reported missing children in the United States from 1984 to 2017. I am focused on reported missing but, that means that there is missing data out there statistically because there must be children missing that were never reported. Currently, media and law enforcement use the Amber alert system as one method of recovery. I found that the mobile Amber alert system can be vague. I received one recently that only stated that there were two children missing and provided the license plate of the last known vehicle. It is probable that the captor would obtain a different vehicle and that info would no longer be relevant. The amber alerts also did not provide enough information regarding what the children looked like which may be a reason that only 40 children were recovered via the mobile alert in a given year.  I want to show that children are still being abducted and possibly learn if those numbers have increased over the past 60 years and if there are certain states where the numbers are the highest. Basically, I want to identify any trends. Are some abduction categories higher than others? Does gender, age or race factor into the case? I also realize that some kids may be runaways but that is still a missing child. Before amber alerts, there were children listed on milk cartons and I can remember the news using aging software to try and provide the public an idea of what the child may look like. 
 
 ---
-
-### Workflow
-
-When are where you think you might use certain information sources, let the
-reader know which sources of information you are going to use, and how you
-intend to get information from that source in a useable format.
-
-Next, to whatever extent possible, let the reader understand how you envision
-the overall workflow. That is, how do you intend to get from a to z. At this
-stage, you probably have a lot of uncertainties, but you should try to think
-this out as much as possible. What tool(s) do you intend to use for scraping?
-For cleaning, visualizing? Will you have to transform the data into different
-formats, if so how? How ensure that group members are not constantly waiting
-on a single member to complete their phase? Can you think of ways that group
-members can get updates in advance of the finished work, so that they can
-start their own work?
+Another issue about a missing child has to do with the age that they were taken. Many have no idea that they have been abducted. I remember a case a while back where the child grew up and had a medical appointment and it was at that time that the person learned that they had been abducted and the person they thought was their parent was the abductor. Also, if a child was taken when they were young many things change such as height, weight, and their names. Someone may change the child’s hair color altogether. Some missing children are also taken out of the country which would make it more difficult to find them and also, I would assume many were murdered and will never be found. 
 
 ---
+### WorkFlow
 
+I am working on this project solo and I will be completing all portions. The reason for this is because I change my mind often. This is already my third or fourth idea for the project. Had I been in a group that would have been impossible because the other members would have to agree. I only decided to do this topic this week based on something from another class. It also is terrible that there are more than ½ a million kids that drop off the radar yearly. 
+One of my data sources is from https://data.world/jamesgray/missing-children-in-the-us/workspace/file?filename=MediaReadyActiveCases+with+cleaned+height+value.csv. It is a thorough csv file that was created March 27, 2018 by a user named James Gray. The file lists reported missing children from 1955 to 2017. The data included the first name, last name, birthdate, sex, race, hair color, eye color, height, weight, missing reported date, missing from date, missing from city, missing from the state, missing from country, the case type, poster contact and URL to the poster. What I noticed was that the data for the missing from column starts back in 1955. The reported missing data only goes back to 1984. I also noticed a difference in the date the child was missing and the data it was reported.  Example: Aaron Anderson was missing from 4/7/1989 but it was not reported until 5/23/1989. The data is not clear on that gap of time in reporting. This record only contains 2593 cases. There are more children missing than that. At this time I do not know what visualization I will use. More than likely it will be a map because that helps with the questions I had. I might have to do the 2nd one like a pie chart. 
+
+---
 ### Scholarship
+I noticed that there are many different databases. This is probably because it narrows down the search if each state has a separate system. There are nonprofit organizations that claim to be a master list but that’s not possible. Each state has its own database and the FBI has a master list. https://archives.fbi.gov/archives/about-us/cjis/ncic/ncic-missing-person-and-unidentified-person-statistics-for-2014 .Much of the work that goes into the search for missing children stems from the murder of America's Most Wanted John Walsh's 6-year-old son Adam Walsh on July 27, 1981. In 1984, the U.S. Congress passed the Missing Children's Assistance Act, owing in part to the advocacy of the Walshes and other parents of missing children. The act allowed the formation of the National Center for Missing & Exploited Children (NCMEC). https://en.wikipedia.org/wiki/Murder_of_Adam_Walsh.
+There is an app called Safety Central that allows parents to create a digital id kit, such as current photos and digital finger prints. There is also a non-digital version. This kit is used to aid in the recovery of the child.http://www.missingkids.com/education  
+This site provides key facts. Says in 2016 FBI reported 465,676 missing children and 460,699 in 2015 and 445,045 in 2014. http://api.missingkids.org/KeyFacts
 
-Here is where you should expand a bit on any relevant scholarship, whether
-digital or historical. If you refer to authors in your bibliography, you need
-only use parenthetical (author, year) notation. If you are referring to a web
-resource, you can always link directly to it.
 
-This section should not be a large histiographical essay going on about the
-merits or drawbacks of different individuals. That kind of discussion can go
-in your final project. Instead, this should be a place to let your reader know
-in the space of several paragraphs the basic schools of thought or important
-works of scholarship that relate to your project. More importantly, you can
-suggest what (potentially) a digital project such as the one you are proposing
-could say to such a debate.
-
-Remember that you can and should talk about both digital and historical
-scholarship, when relevant. [Digital Humanities Quarterly](www.digitalhumanities.org/dhq/)
-is a good starting point.
-
-Rather than think of this as a discussion about others, it might be more
-helpful to think of it like this: in academia there are lots of scattered, but
-important conversations going on, you can have more impact when you can connect
-what you are saying to more and more of these conversations. So, you can think
-of it like selling your project by linking it to its possible links to others.
 
 ---
+
+
+
+
+---
+
