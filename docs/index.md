@@ -43,7 +43,7 @@ and applications available to start these various projects. There are several sm
 LGBT creators, and countless texts on the topic that can be analyzed to uncover further meaning in how LGBT history is covered in the
 academic community.
 
-However, websites such as The LGBT Oral History Digital Collaboratory are prime examples of the growth among the LGBT Histories
+However, websites such as [The LGBT Oral History Digital Collaboratory](http://lgbtqdigitalcollaboratory.org/) are prime examples of the growth among the LGBT Histories
 community. Showing that through the collection of oral histories and their transcripts, historians and activists are unknowingly
 beginning to contribute to the digital future of historical research.
 
