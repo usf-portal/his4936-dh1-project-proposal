@@ -1,4 +1,4 @@
-# PUT YOUR PROPOSAL TITLE HERE
+# Tampa Census
 
 ---
 
@@ -6,101 +6,26 @@
 
 ---
 
-![imgs/intro_img.jpg]
+![](imgs/956px-Flag_of_Tampa,_Florida.svg.png)
 
-REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
-IF YOU LIKE.
-
----
-
-REMEMBER TO USE THE [Markdown Cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-FOR ALL EXTERNAL LINKS OR IMAGES, JUST PAST THE URL INSIDE THE PARENTHESES
-
-FOR LOCAL LINKS OR IMAGES, ALL PATHS START FROM THE `docs` DIRECTORY. SO TO
-LINK TO ANY IMAGE YOU STORED DIRECTLY INSIDE THE `imgs` DIRECTORY, YOU ONLY
-NEED TO MAKE THE PATH LIKE THIS `imgs/some_image.jpg`. NOTE: YOU SHOULD *NOT*
-START PATHS WITH A `/`. See the examples above.
-
----
-
-WHEN COMPOSING YOUR PROPOSAL REMEMBER YOU CAN...
-
-* Remember that you can...
-* Put items in lists
-* Even
-    * Nested
-    * Lists
-
-1. You can also
-2. Use numbered
-    1. Lists
-    2. And Nest them
-
----
-
-Use triple dashes (like below) to separate sections of your text
-
----
-
-Remember you can use `single backticks` to quote code inline, or use triple
-backticks to make a blockquote of code (you can even specify the language,
-if you want).
-
-```markdown
-
-# Quoted Markdown
-
-When this is put on the web this will appear in the in raw Markdown. That is,
-this will appear inside a code blockquote, this will not be rendered as
-part of the webpage. Instead, it will look very similar to how you are seeing
-it now, inside the editor.
-
-You can do this for pretty much any language or format we
-have run into for this class...
-
-* python
-* csv
-* json
-* et.c.
-
-```
-
----
 
 ---
 
 ## The Proposal
 
 ### Introduction
-
-The introduction should let the reader know why they should care about the
-topic in general, and to the extent you are able at this time, what you are
-going to say (or ask about) that topic. Use the introduction to let the
-reader know basic facts, or to inform them (briefly)
-
-Even where you are not sure of exactly where you are going. Try to give the
-reader (namely, me) an idea about the the context of the problem or question
-you are going to tackle. Above all, you should let the reader know
-**why they should care**.
+ 
+The state of Florida, particularly Tampa, are experiencing an extreme lack of medical personel. A major factor in this predicament stems from a polarization in worker availabilty due to access to education. A treding issue in todays workforce, lack of education is creating a large manual labor employee pool. While analytical positions are behind an edcuation barrier, creating a much smaller pool of employees. By accessing the census data for Tampa, Florida we fully expect to see a correlation between acheived degrees and household income. Due to the extreme need for Nursing personell in the state of Florida we fully expect to see a large ammount education tracking into medical proffesions.
 
 ---
 
 ### Workflow
 
-When are where you think you might use certain information sources, let the
-reader know which sources of information you are going to use, and how you
-intend to get information from that source in a useable format.
-
-Next, to whatever extent possible, let the reader understand how you envision
-the overall workflow. That is, how do you intend to get from a to z. At this
-stage, you probably have a lot of uncertainties, but you should try to think
-this out as much as possible. What tool(s) do you intend to use for scraping?
-For cleaning, visualizing? Will you have to transform the data into different
-formats, if so how? How ensure that group members are not constantly waiting
-on a single member to complete their phase? Can you think of ways that group
-members can get updates in advance of the finished work, so that they can
-start their own work?
+1. Accessing Tampa, Florida census records that are readily avaialble for download.
+	* https://datausa.io/profile/geo/tampa-fl/
+2. Sourcing articles and documents for understadning the issue.
+3. Applying data sets in Tableau for visualization of data sets.
+4. Processing comparison graphs to better visualize data sets.
 
 ---
 
