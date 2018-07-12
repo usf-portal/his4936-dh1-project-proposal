@@ -15,17 +15,18 @@
 
 ### Introduction
  
-The state of Florida, particularly Tampa, are experiencing an extreme lack of medical personel. A major factor in this predicament stems from a polarization in worker availabilty due to access to education. A treding issue in todays workforce, lack of education is creating a large manual labor employee pool. While analytical positions are behind an edcuation barrier, creating a much smaller pool of employees. By accessing the census data for Tampa, Florida we fully expect to see a correlation between acheived degrees and household income. Due to the extreme need for Nursing personell in the state of Florida we fully expect to see a large ammount education tracking into medical proffesions.
+The state of Florida and particularly Tampa, is experiencing an extreme lack of medical personnel. A major factor in this predicament stems from a polarization in worker availabilty due to access to education. A trending issue in todays workforce, lack of education is creating a large manual labor employee pool. While analytical positions are behind an education barrier, creating a much smaller pool of employees. By accessing the census data for Tampa, Florida, we fully expect to see a correlation between achieved degrees and household income. Due to the extreme need for Nursing personnel in the state of Florida, we fully expect to see a large ammount education tracking into medical professions.
 
 ---
 
 ### Workflow
 
-1. Accessing Tampa, Florida census records that are readily avaialble for download.
+1. Accessing Tampa, Florida census records that are readily available for download in CSV files.
 	* https://datausa.io/profile/geo/tampa-fl/
-2. Sourcing articles and documents for understadning the issue.
+2. Sourcing articles and documents for understanding the issue.
 3. Applying data sets in Tableau for visualization of data sets.
 4. Processing comparison graphs to better visualize data sets.
+5. Draw conclusion on Labor Market needs vs Education trends. 
 
 ---
 
