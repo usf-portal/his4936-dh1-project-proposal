@@ -1,5 +1,7 @@
 # Bibliography
 
+
+=======
 * Cartwright, Mark. "Amphora." Ancient History Encyclopedia. July 10, 2018. Accessed July 10, 2018. https://www.ancient.eu/Amphora/.
 
 	* To understand ancient trade, it is important to research the items traded. Upon looking at the database the most common items traded were Amphoras. This source explains what they are, how they differ and how to tell the difference between each areas Amphoras. 
@@ -27,3 +29,4 @@
 * "Which Chart or Graph? A Guide to Data Visualization." Tableau Software. Accessed July 10, 2018. https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you.
 
 	* Will be used as a second reference point and in conjunction with the other data visualization guide. These two sources will be used to ensure our project is concise and efficiently delivers the data. 
+
