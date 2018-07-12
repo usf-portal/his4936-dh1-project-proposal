@@ -32,27 +32,10 @@ The state of Florida and particularly Tampa, is experiencing an extreme lack of 
 
 ### Scholarship
 
-Here is where you should expand a bit on any relevant scholarship, whether
-digital or historical. If you refer to authors in your bibliography, you need
-only use parenthetical (author, year) notation. If you are referring to a web
-resource, you can always link directly to it.
+The main source being used is dataus.io. This website takes raw census data and makes it visual and easier to absorb for the average person. The About section explains this site was formed by a collection of data scientists, economists, business professionals and public employees. By using this census data, they intend to “understand and visualize the critical issues facing the United States in areas like jobs, skills and education across industry and geography.” (dataus.io, 2018)
 
-This section should not be a large histiographical essay going on about the
-merits or drawbacks of different individuals. That kind of discussion can go
-in your final project. Instead, this should be a place to let your reader know
-in the space of several paragraphs the basic schools of thought or important
-works of scholarship that relate to your project. More importantly, you can
-suggest what (potentially) a digital project such as the one you are proposing
-could say to such a debate.
+While Nick Nail was analyzing the visualizations from dataus.io, the areas that stuck out as most intriguing were education trends and the labor market. From the years 2013 to 2016, there were constant upward and downward shifts in various fields. The largest change in this short time period was the increase of Nursing and healthcare degrees. By noticing that change, there was a question of, is there a similar correlation in the job market? Both Nick Nail and classmate Chris Volk began researching articles and journals to further explain these trends. 
 
-Remember that you can and should talk about both digital and historical
-scholarship, when relevant. [Digital Humanities Quarterly](www.digitalhumanities.org/dhq/)
-is a good starting point.
-
-Rather than think of this as a discussion about others, it might be more
-helpful to think of it like this: in academia there are lots of scattered, but
-important conversations going on, you can have more impact when you can connect
-what you are saying to more and more of these conversations. So, you can think
-of it like selling your project by linking it to its possible links to others.
+From a local Tampa news article, there is a large shortage of Nurses and Healthcare professionals across the entire country. This issue is specific to Florida from the higher numbers of elderly and the constant population growth of those moving to the state. (tampabay.com, 2016) Volk was able to take the data provided and test visualizations specific to this topic. He will continue to create different configurations in Tableau with the purpose of uncovering any non-obvious associations. Nail plans to use the research from the articles and compare to the visualizations from Chris Volk. 
 
 ---
