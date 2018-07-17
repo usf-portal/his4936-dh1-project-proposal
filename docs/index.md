@@ -6,7 +6,7 @@
 
 ---
 
-![imgs/intro_img.jpg]
+![C:\Users\Justina\Downloads\F100009467.jpg]
 
 REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
 IF YOU LIKE.
