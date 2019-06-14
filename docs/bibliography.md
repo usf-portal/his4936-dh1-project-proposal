@@ -1,18 +1,36 @@
 # Bibliography
 
-Remember to make full use of Markdown format. You can use two asterices to
-make text **bold**. More importantly for Chicago Style format, you should use
-a single astrix to make text *italicized*, which you should use for book
-titles. Remember to use Markdown to create links to any web resources in your
-bibliography.
+**Sorcing for Data**
 
-Below are a few examples
+* **“Tampa, FL | Data USA.” Accessed July 11, 2018. https://datausa.io/profile/geo/tampa-fl/.**
 
-* Cheyette, Fredric L. *Ermengard of Narbonne and the World of the Troubadours*.  Ithaca, Cornell University Press, 2001.
-* Chaniotis, Angelos. *Die Verträge zwischen kretischen Poleis in der hellenistischen Zeit*. Heidelberger althistorische Beiträge und epigraphische Studien 24. Stuttgart: Franz Steiner Verlag, 1996.
-* Clinton, Kevin. “A Family of Eumolpidai and Kerykes Descended from Pericles.” *Hesperia* 73,  no. 1 (2004): 39-57.
-* Clinton, Kevin. “Eleusis and the Romans.” In *The Romanization of Athens: Proceedings of an International Conference held at Lincoln, Nebraska (April 1996)*,  Oxbow Monographs 94, edited by Michael C. Hoff and Susan I. Rotroff, 161-82. Oxford: Oxbow, 1997.
-* Coward, Fiona. "Small Worlds, Material Culture and Ancient Near Eastern Social Networks." In *Social Brain, Distributed Mind*, edited by Robin Dunbar, Clive Gamble, and John Gowlett. Oxford: Oxford University Press, 2010.
-* Geagan, Daniel. “The Great Catalogue from the City Eleusinion.” *Zeitschrift für Papyrologie und Epigrafik 33* (1979): 93-115.
+**Sourcing for Data Support**
 
-If you want, you can break your bibliography into different sections, for example, one section for traditional historiography, and another for digitally related works. You do not have to do this though.
+* **“Adam Putnam Right about Need for More Nurses in Florida.” @politifact. Accessed July 11, 2018. http://www.politifact.com/florida/statements/2017/nov/08/adam-putnam/adam-putnam-right-about-need-more-nurses-state/.**
+	`Sourcing on issue of lack of Nursing employees, sets directional use of datasets.`
+
+* **“An Economic Mystery: Why Are Men Leaving The Workforce?” NPR.org. Accessed July 11, 2018. https://www.npr.org/2016/09/06/492849471/an-economic-mystery-why-are-men-leaving-the-workforce.**
+	`Further understading of job market fluctuations. Article deals with exoduse of working age men from job market, further evidence of shrinking labor-oriented work force.`
+
+* **“Florida Facing a ‘nursing Shortage Tsunami’ Due to Increased Population, More Insured Patients,” February 1, 2016. http://www.tampabay.com/news/health/florida-facing-a-nursing-shortage-tsunami-due-to-increased-population-more/2263588.**
+	`Article describing projected numbers for Nursing positions in Florida, demonstrates desperate need for educated workforce.`
+
+* **“Gov. Scott: Tampa-St. Petersburg-Clearwater Area Led State in Job Creation.” Accessed July 11, 2018. https://www.flgov.com/gov-scott-tampa-st-petersburg-clearwater-area-led-state-in-job-creation-1/.**
+	`Discusses job creation primarily centered on Education based positions in the Tampa area. Also includes data for 2013 employment.`
+	
+* **“Labor Market Polarization in Florida | Www.Bebr.Ufl.Edu.” Accessed July 10, 2018. https://www.bebr.ufl.edu/economics/website-article/labor-market-polarization-florida.**
+	`Article discusses Polarization of Florida job markets, breaks market into 3 categories, Analytical(educated), Trade(skilled), Manual (unskilled,uneducated). Article demonstrates movement of available workers into the Manual category with a shrinking pool for Trade and Educated positions.`
+	
+* **“Romano: Florida Is Losing Teachers, One Test at a Time,” September 19, 2016. http://www.tampabay.com/news/education/k12/romano-florida-is-losing-teachers-one-test-at-a-time/2294280.**
+	`Demonstrates other factors in job market trends.`
+	
+* **“Tampa Adds More than 30,000 Jobs over Past Year.” Accessed July 11, 2018. http://www.baynews9.com/fl/tampa/news/2018/06/15/tampa-adds-more-than-thirty-thousand-jobs-over-the-year.**
+	`More current sourcing on job creation trends. `
+	
+**Sourcing for data processing**
+
+* **“OpenRefine Is a Free, Open Source Power Tool for Working with Messy Data and Improving It. Java. 2012. Reprint, OpenRefine, 2018. https://github.com/OpenRefine/OpenRefine."**
+	`Sourcing for processing data for structured cleanup`
+
+* **“Learning.” Tableau Software. Accessed July 11, 2018. https://www.tableau.com/learn.**
+	`Source for further understadning of Dataset display tool`
