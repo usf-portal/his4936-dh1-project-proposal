@@ -1,4 +1,4 @@
-# PUT YOUR PROPOSAL TITLE HERE
+# DEATHS IN MEXICO
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-![imgs/intro_img.jpg]
+!imgs/F100009467.jpg
 
 REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
 IF YOU LIKE.
@@ -74,33 +74,14 @@ have run into for this class...
 
 ### Introduction
 
-The introduction should let the reader know why they should care about the
-topic in general, and to the extent you are able at this time, what you are
-going to say (or ask about) that topic. Use the introduction to let the
-reader know basic facts, or to inform them (briefly)
-
-Even where you are not sure of exactly where you are going. Try to give the
-reader (namely, me) an idea about the the context of the problem or question
-you are going to tackle. Above all, you should let the reader know
-**why they should care**.
-
+When most people think of Mexico, they think of either paradise or, for the most part, the murders committed by the cartels and/or law enforcement themselves. Although this is a harsh reality for Mexico's citizens, I will also be taking this into account. I want to focus not only those deaths but those that are caused by diseases, certain conditions, and illnesses along those lines.
+For my research topic I wanted to focus on Mexico, but I had a tough time figuring out what the exact topic was going to be. In the end, I decided to try and answer what the big causes of death in Mexico? What cities and/or states were affected the most? And whether that has changed through time? Because I believe these questions, especially the last one, might be difficult to answer if I start from the very beginning, I am focusing on the turn of the century, the beginning of the January 2001 to the latest information I can find. This will allow me to focus and go more in depth if I have some sort of timeline or set of dates. Not to mention that it will, hopefully, be a lot more faster and easier to look up this information since the records might be readily available online. Although there has been a lot of news coverage about the killings done by the cartels and gangs in Mexico, I also know that Mexico used to have one of if not the highest obesity rate in the world, but its citizens have taken steps to try and reduce that rate and statistic, and I wonder if that has helped overall and over time if at all and if it has how has it affected the death rates in terms of illnesses.
 ---
 
 ### Workflow
 
-When are where you think you might use certain information sources, let the
-reader know which sources of information you are going to use, and how you
-intend to get information from that source in a useable format.
-
-Next, to whatever extent possible, let the reader understand how you envision
-the overall workflow. That is, how do you intend to get from a to z. At this
-stage, you probably have a lot of uncertainties, but you should try to think
-this out as much as possible. What tool(s) do you intend to use for scraping?
-For cleaning, visualizing? Will you have to transform the data into different
-formats, if so how? How ensure that group members are not constantly waiting
-on a single member to complete their phase? Can you think of ways that group
-members can get updates in advance of the finished work, so that they can
-start their own work?
+I will be using, for the most part, online sources specifically from Mexico’s government website, which is downloadable for the most part, health organizations websites, like the Institute for Health Metrics and Evaluation (IHME) and the Pew Research Center. These online sources will help me build an impartial and unbiased resource which I hopefully will be able to turn into a couple of graphs, bar or line, or pie chart along with a map that will show this information in a condensed form. The OpenRefine program will also make it easier to read, understand and interpret. With this information I plan on using Tableau to create these graphs and/or map, hopefully me being able to download some of this information will make it easier to do that.
+I will be working on my own, which I realize is a big undertaking, the main reason being I wanted to focus on Mexico. But I intend to download and/or scrape data, with Web Scraper ,and clean it up, with this being done I would like to create a map of Mexico with all the information being condensed. As well as, hopefully, some kind of charts.
 
 ---
 
